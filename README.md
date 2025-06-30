@@ -19,7 +19,7 @@ To analyze revenue trends and hotel performance using a clean, dynamic dashboard
 
 ## 📷 Dashboard Preview
 
-![Dashboard] 
+![Dashboard] https://github.com/snehaa1004/hotel-revenue-insights-powerbi/blob/main/Hospitality%20Dashboard.png
 
 ## 🔧 Tools Used
 
